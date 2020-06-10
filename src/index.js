@@ -17,7 +17,7 @@ ReactDOM.render(
     <JSExpression age = {45} />
 
     <h4>3. Media Card Task</h4>
-    <MediaCard title="Media card's title." mcbody="Media card's body." imageUrl="https://www.theindianwire.com/wp-content/uploads/2018/05/google-photos-1-990x556.jpg" />
+    <MediaCard title="This is Media card title." mcbody="Media card's body." imageUrl="https://www.theindianwire.com/wp-content/uploads/2018/05/google-photos-1-990x556.jpg" />
 
     <h4>4. Gate Task</h4>
     <Gate isOpen={true} />
